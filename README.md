@@ -1,43 +1,15 @@
 # Meow Counter
 
-A Pen created on CodePen.io. Original URL: [https://codepen.io/Nalini1998/pen/XWyvBPZ/a8970c3f37de544a52f8a64d0452f758](https://codepen.io/Nalini1998/pen/XWyvBPZ/a8970c3f37de544a52f8a64d0452f758).
+In this project, we have developed a simple counter which can then be modified and improved to meet the particular requirements of the application. But bear in mind that there are other alternative ways to accomplish the same goal when building a counter in ReactJS; this is only one method.
 
-# Counter Component
+<br>
 
-The `Counter` component is a simple React component that allows you to increment and decrement a counter. It also features a GIF animation that loops continuously.
+<img src="https://assets.codepen.io/10602517/App_Counter.PNG" alt="Meow Counter" title="Meow Counter">
 
-## Props
+<br>
 
-The `Counter` component does not accept any props.
+A Pen created on CodePen.io. [Click here to explore](https://codepen.io/Nalini1998/live/XWyvBPZ/a8970c3f37de544a52f8a64d0452f758).
 
-## Usage
-
-To use the `Counter` component, you can import it and render it within your React application:
-
-```jsx
-import React from 'react';
-import ReactDOM from 'react-dom';
-import Counter from './Counter';
-
-ReactDOM.render(<Counter />, document.getElementById('app'));
-```
-
-The `Counter` component will be rendered within the element with the `app` id.
-
-## Example
-
-```jsx
-import React from 'react';
-import ReactDOM from 'react-dom';
-import Counter from './Counter';
-
-const App = () => {
-  return (
-    <div>
-      <h1>Counter App</h1>
-      <Counter />
-    </div>
-  );
-};
-
-ReactDOM.render(<App />, document.getElementById('app'));
+<br>
+  
+### ***[This Project was completed by Nalini Vo](https://github.com/Nalini1998)***
